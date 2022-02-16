@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This file contains information regarding problem set 6. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-75-political-economy-and-economic-development-fall-2012/0f2d87420528aad73ce675aecfa35875_MIT14_75F12_ProbSet6.pdf
+file: /media/courses/14-75-political-economy-and-economic-development-fall-2012/0f2d87420528aad73ce675aecfa35875_MIT14_75F12_ProbSet6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 14.75 Problem Set 6
 uid: 0f2d8742-0528-aad7-3ce6-75aecfa35875

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b58eb675-57bf-5b30-6a3a-7df44f105d09
 ---
@@ -87,7 +89,7 @@ Readings
 
 The readings for this class are mostly academic economics papers. I expect you to do the required readings before class (the ones labeled "Read" on the syllabus), and may ask about them on the pop quizzes. I will not go over all of the details of the papers in class, but will expect you to have read them beforehand so that we can discuss them. You are not expected to understand every single detail or every single equation in every article I assign, but you are expected to understand the methods used by the authors to reach their conclusions. In addition to the main reading I've listed for each class, I've also listed the other papers that I may discuss in class, but for these papers you are only responsible for the material I discuss in class.
 
-I will draw on several occasions from the textbook Shepsle, Kenneth A. _Analyzing Politics: Rationality, Behavior and Instititutions_. 2 ed. W. W. Norton & Company, 2010. ISBN: 9780393935073. Luckily, as textbooks go it is inexpensive (<$30 on Amazon.com).
+I will draw on several occasions from the textbook Shepsle, Kenneth A. _Analyzing Politics: Rationality, Behavior and Instititutions_. 2 ed. W. W. Norton & Company, 2010. ISBN: 9780393935073. Luckily, as textbooks go it is inexpensive (\<$30 on Amazon.com).
 
 If you are interested in some general background reading related to the topics we'll cover in this course, you may be interested in checking out some of the following books. None of these are required, and I won't draw on them explicitly. They are all pretty easy reading. add amazon citation/purchase button to following list.
 
