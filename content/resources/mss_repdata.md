@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d6a225a5-c730-d347-75f2-d530822d6bc5
 resourcetype: Other
 title: mss_repdata.dta
 uid: 8f8b8f7d-037a-81e2-4755-350cc3cbd4b2

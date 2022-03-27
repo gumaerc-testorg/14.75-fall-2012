@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d6a225a5-c730-d347-75f2-d530822d6bc5
 resourcetype: Other
 title: votingData.dta
 uid: 42f57bde-c77f-aa9f-fe96-d2a0b684fcd1

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a853b56e-1940-9c56-f4cd-c7efeece123d
 resourcetype: Document
 title: 14.75 Recitation 4
 uid: bc230010-3d8f-a3cf-aa0a-0cd5d85a3d5b
