@@ -5,6 +5,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/918ac5
 file_type: application/rar
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Pset_1.rar
 uid: 918ac566-3a99-bfbe-b98b-abbff30e04bb
 ---
 This is a supporting file contains information regarding Dataset: AssassinationsData.dta.
-

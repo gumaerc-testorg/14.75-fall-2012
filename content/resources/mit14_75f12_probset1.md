@@ -5,6 +5,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/50334b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.75 Problem Set 1
 uid: 50334b21-dd23-8a4e-72d0-084b1c58d3ff
 ---
 This file contains information regarding problem set 1. 
-

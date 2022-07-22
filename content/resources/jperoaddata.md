@@ -5,6 +5,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/be839d
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: jperoaddata.dta
 uid: be839d8f-892c-aa9c-50b7-eee39078d6b5
 ---
 This is a supporting file contains information regarding Dataset: jpeordata.dta.
-

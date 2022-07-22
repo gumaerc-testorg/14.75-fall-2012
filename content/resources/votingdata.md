@@ -5,6 +5,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/42f57b
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: votingData.dta
 uid: 42f57bde-c77f-aa9f-fe96-d2a0b684fcd1
 ---
 This is a supporting file contains information regarding Dataset: votingData.dta.
-

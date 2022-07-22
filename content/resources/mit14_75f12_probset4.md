@@ -5,6 +5,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/4ee90b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.75 Problem Set 4
 uid: 4ee90b18-5458-4e1b-3ed5-da4611f25a16
 ---
 This file contains information regarding problem set 4.  
-

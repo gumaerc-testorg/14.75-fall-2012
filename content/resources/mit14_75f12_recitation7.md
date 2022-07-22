@@ -5,6 +5,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/1716a9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.75 Recitation 7
 uid: 1716a961-45eb-5d1d-beaa-b69fce6a2d9c
 ---
 This file contains information regarding recovery from civil war. Special. 
-

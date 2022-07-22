@@ -6,6 +6,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/0d9226
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.75 Recitation 3
 uid: 0d9226ee-3d76-e7e4-c5d4-029cc547cc74
 ---
 This file contains information regarding voting in practice: agency models. 
-

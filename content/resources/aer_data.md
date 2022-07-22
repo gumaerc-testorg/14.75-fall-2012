@@ -5,6 +5,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/3d32b9
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: AER_Data.xls
 uid: 3d32b974-efca-a856-2e19-f883bfd64a5d
 ---
 This is a supporting file contains information regarding Dataset: IncomeandDemocracy.dta.
-

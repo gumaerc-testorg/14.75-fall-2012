@@ -6,6 +6,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/b4b7a7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.75 Recitation 0
 uid: b4b7a729-7433-4c3f-6eca-5d65a117a02f
 ---
 This file contains information regarding introduction: why study political economy and development? motivation and course overview. 
-

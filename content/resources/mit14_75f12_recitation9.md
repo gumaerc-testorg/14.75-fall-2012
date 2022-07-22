@@ -6,6 +6,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/441281
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.75 Recitation 9
 uid: 44128183-25cd-ddc1-931e-83420bcffa78
 ---
 This file contains information regarding the corrupt official’s decision problem: balancing risks, rents, and incentives.
-

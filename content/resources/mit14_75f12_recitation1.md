@@ -6,6 +6,7 @@ file: /courses/14-75-political-economy-and-economic-development-fall-2012/d07a56
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.75 Recitation 1
 uid: d07a56d6-4de1-66ce-e70c-d9b1699cad7d
 ---
 This file contains information regarding the role of leaders and democratic institutions. 
-
