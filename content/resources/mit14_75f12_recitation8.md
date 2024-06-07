@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding civil war. '
 file: /courses/14-75-political-economy-and-economic-development-fall-2012/bf65c969a9bfd655e50589ba7283cda8_MIT14_75F12_Recitation8.pdf
+file_size: 257172
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

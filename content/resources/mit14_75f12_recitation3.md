@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding voting in practice: agency
   models. '
 file: /courses/14-75-political-economy-and-economic-development-fall-2012/0d9226ee3d76e7e4c5d4029cc547cc74_MIT14_75F12_Recitation3.pdf
+file_size: 182820
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
