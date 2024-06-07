@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This is a supporting file contains information regarding Dataset: jpeordata.dta.'
 file: /courses/14-75-political-economy-and-economic-development-fall-2012/be839d8f892caa9c50b7eee39078d6b5_jperoaddata.dta
+file_size: 64842
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments

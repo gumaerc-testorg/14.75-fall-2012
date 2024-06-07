@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding ethnic heterogeneity and contributions
   to public goods. '
 file: /courses/14-75-political-economy-and-economic-development-fall-2012/73b6e222b12c2a5a3901c010ef2658ea_MIT14_75F12_Recitation6.pdf
+file_size: 251702
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

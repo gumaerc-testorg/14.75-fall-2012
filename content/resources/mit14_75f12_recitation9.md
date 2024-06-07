@@ -3,6 +3,7 @@ content_type: resource
 description: "This file contains information regarding the corrupt official\u2019\
   s decision problem: balancing risks, rents, and incentives."
 file: /courses/14-75-political-economy-and-economic-development-fall-2012/4412818325cdddc1931e83420bcffa78_MIT14_75F12_Recitation9.pdf
+file_size: 235761
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

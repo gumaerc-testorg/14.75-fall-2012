@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 3.
 file: /courses/14-75-political-economy-and-economic-development-fall-2012/671c6f2f35c6fd24cdb8fb0d9cd9e092_MIT14_75F12_ProbSet3.pdf
+file_size: 194904
 file_type: application/pdf
 learning_resource_types:
 - Assignments

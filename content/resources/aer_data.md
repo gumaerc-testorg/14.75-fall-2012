@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This is a supporting file contains information regarding Dataset: IncomeandDemocracy.dta.'
 file: /courses/14-75-political-economy-and-economic-development-fall-2012/3d32b974efcaa8562e19f883bfd64a5d_AER_Data.xls
+file_size: 719360
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Assignments
