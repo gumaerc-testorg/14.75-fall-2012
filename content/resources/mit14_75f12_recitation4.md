@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding voting in practice: vote buying
   and voter intimidation. '
-file: /courses/14-75-political-economy-and-economic-development-fall-2012/bc2300103d8fa3cfaa0a0cd5d85a3d5b_MIT14_75F12_Recitation4.pdf
+file: /ol-ocw-studio-app/courses/14-75-political-economy-and-economic-development-fall-2012/bc2300103d8fa3cfaa0a0cd5d85a3d5b_MIT14_75F12_Recitation4.pdf
 file_size: 223042
 file_type: application/pdf
 learning_resource_types:
