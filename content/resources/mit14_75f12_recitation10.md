@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding the industrial organization
   of corruption.
-file: /courses/14-75-political-economy-and-economic-development-fall-2012/152157c67656eb496af582da7d099224_MIT14_75F12_Recitation10.pdf
+file: /ol-ocw-studio-app/courses/14-75-political-economy-and-economic-development-fall-2012/152157c67656eb496af582da7d099224_MIT14_75F12_Recitation10.pdf
 file_size: 261301
 file_type: application/pdf
 learning_resource_types:

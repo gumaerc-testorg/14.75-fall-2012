@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding good vs. bad dictatorships.
-file: /courses/14-75-political-economy-and-economic-development-fall-2012/01484645a86105d01278337a1810af1d_MIT14_75F12_Recitation5.pdf
+file: /ol-ocw-studio-app/courses/14-75-political-economy-and-economic-development-fall-2012/01484645a86105d01278337a1810af1d_MIT14_75F12_Recitation5.pdf
 file_size: 262609
 file_type: application/pdf
 learning_resource_types:
