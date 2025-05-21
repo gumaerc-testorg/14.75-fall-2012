@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding the median voter theorem. '
-file: /ol-ocw-studio-app/courses/14-75-political-economy-and-economic-development-fall-2012/efd75aa37f5e0eba07133fc174f86ad0_MIT14_75F12_Recitation2.pdf
+file: /courses/14-75-political-economy-and-economic-development-fall-2012/efd75aa37f5e0eba07133fc174f86ad0_MIT14_75F12_Recitation2.pdf
 file_size: 370402
 file_type: application/pdf
 learning_resource_types:
