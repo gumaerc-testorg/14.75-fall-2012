@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a supporting file contains information regarding Dataset: mss_repdata.dta.'
-file: /ol-ocw-studio-app/courses/14-75-political-economy-and-economic-development-fall-2012/8f8b8f7d037a81e24755350cc3cbd4b2_mss_repdata.dta
+file: /courses/14-75-political-economy-and-economic-development-fall-2012/8f8b8f7d037a81e24755350cc3cbd4b2_mss_repdata.dta
 file_size: 747219
 file_type: application/octet-stream
 learning_resource_types:
