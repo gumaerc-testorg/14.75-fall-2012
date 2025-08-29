@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 5.
-file: /courses/14-75-political-economy-and-economic-development-fall-2012/0077644e5e5318a068316257cd431d16_MIT14_75F12_ProbSet5.pdf
+file: /ol-ocw-studio-app/courses/14-75-political-economy-and-economic-development-fall-2012/0077644e5e5318a068316257cd431d16_MIT14_75F12_ProbSet5.pdf
 file_size: 258107
 file_type: application/pdf
 learning_resource_types:

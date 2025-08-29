@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a supporting file contains information regarding Dataset: AssassinationsData.dta.'
-file: /courses/14-75-political-economy-and-economic-development-fall-2012/918ac5663a99bfbeb98babbff30e04bb_Pset_1.rar
+file: /ol-ocw-studio-app/courses/14-75-political-economy-and-economic-development-fall-2012/918ac5663a99bfbeb98babbff30e04bb_Pset_1.rar
 file_size: 26157
 file_type: application/rar
 learning_resource_types:
